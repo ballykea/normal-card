@@ -1,0 +1,88 @@
+---
+title: "The Card"
+author: Kay Endriss, Spike Peterson, Robert G. Lyday, Sean L. Simpson, Pranab Das,
+  Debra Hege, Ioannis Gkigkitzis, Paul J. Laurienti, Rhiannon E. Mayhugh, and Michael
+  Oliphant
+date: "June 13, 2015"
+output: 
+  html_document: 
+    theme: cosmo
+---
+“Personally, I am convinced the majority is wrong. There ARE regular patterns in our world, we just haven’t found them yet. Our startup is called #patternsRus. You provide the problem and the data; we’ll find the pattern.” _Only we aren't immune to the uncertainties that plague our times. One never knows how long anything will take. How many people will inquire before our first paying customer appears?_ 
+
+“As we wait, our engineers are testing the proprietary software to predict the 1987, 2003 and 2008 financial crashes. Even as we speak, our algorithms foresee the Chicago Cubs winning the World Series this year. Potential customers range from individuals to entire countries. So, I ask you. Are you interested in backing our startup?” 
+
+“We are. However, we’d like to test it on a problem of our choosing.” 
+
+Fred was visibly excited. Maybe too excited, resembling a child seeing the first hint of sun after the rainy season. _It’s finally happening,_ he thought to himself. He had lost count how many times he would race to the ringing roto-phone to hear an interested party on the line, only to have the scheduled appointment time come and go with Fred poorly counting sugar ants crawl across the kitchen counter. _Seventy-three, Seventy-four, Seventy-Nine, Eighty…_ All while Fred’s grumbling stomach wonders how long beans for dinner can REALLY be a thing. 
+
+The two men sitting opposite of Fred, dressed in black suits with full frame black sunglasses, were the type of people you would cross the Sahara to avoid. Fred does not seem to care, blinded by the excitement of the (premature) change in dinner plans from beans to steak. 
+
+“I said, we are interested in your product, but we want to test it first.” 
+
+“Of course. I am confident our algorithm will exceed all expectations.” 
+
+For Fred’s sake, I hope he is wrong. 
+
+As the two men commenced to describe their test problem, a slow moving fog of worry began to engulf Fred. _What if it did work?_ Is this really how he envisioned its use? Is he responsible for how it’s used? Maybe there are pattern types for which they had not accounted for? Should he really be hoping for it to fail? Fred began to sink into a deep crisis of conscious, momentarily losing his carnivorous dinner desire. 
+
+“So, we’ll send you the data and go from there,” the more earnest seeming of the two stated suddenly, snapping Fred out of his anxious introspection. 
+
+“Sounds good!” Fred assuredly replied, his confidence belying his ethical confusion and worry. 
+
+“Great!” he exclaimed slapping the table in apparent excitement. “It goes without saying that these data are to be kept confidential.” 
+
+“Yes, of course, we maintain a certifiably secure environment. Our software boasts a…” 
+
+“No need to explain the details,” the other man interrupted with an abruptness that startled Fred, “a member of our team will be in contact within 24 hours, you can explain the details then.” 
+
+With a full belly and a pleasant buzz from the nice wine at dinner, Fred nonetheless fell asleep muttering a worried lament.
+
+Many are many and one is one 
+Little isn’t nothing, only none is none. 
+
+All scientists know that a fact is a fact 
+And we never expect to have to take that back. 
+
+But what if we cluster and gather and clump 
+Into bunches and tranches and such that trump 
+Our pride of place and unique ideal 
+Until nothing remains but the common weal? 
+
+Science should study the things that are real 
+Not so-called “populations”, collections that feel 
+Like nothing so much as mathematical hype 
+Leaving us empty, self-loathing stereotypes. 
+
+But I fiddle and puzzle, and meddle and play 
+With the forces that seemed to keep chaos at bay. 
+
+Do I dare bear the scorn of future history 
+As the wanton who destroyed individuality? 
+
+Fred awoke suddenly, painfully remembering that sleeping in a hammock above a concrete floor was not a good idea. Newton tried to tell him that a body at rest remains at rest until it falls out of a hammock and hits a concrete floor, but he lacked both the energy to move the hammock and the money to buy a rug. Maybe if this new job paid off… 
+
+Reusing the coffee grounds from the previous morning, Fred was about to take his first sip of steaming hot coffee when the doorbell rang. He hurriedly dressed, ran his fingers through his hair, and tried to look as though he had been awake and working for hours. 
+
+There she stood in a Julia Mandelbrot dress, letting Fred know that there was a roughness about her that he would not soon forget. He would not have to handle her with kid gloves. “Gauss and Laplace, the gentlemen you dined with last evening, have asked that I stop by to discuss our problem. I have the data set with me.” 
+
+“First of all, let me tell you that Gauss asked me to tell you that you should use the data judiciously or the consequences can be disastrous. The data shows variations (high and low) that are far more frequent than what any algorithm would either predict or explain. Even data that does or does not seem to be distributed according to a certain pattern may only seem to be so! Gauss and Laplace are very well aware that an algorithmic output can be very seductive and once it gets into someone’s mind it is hard to get past it. However, they don’t care about either happiness that much, or complete satisfaction of their ego-centric desires. They know that a system that uses mathematical concepts and language and identification and representations can very often end up in a half science, a most terrible scourge. Hence be careful: Surprise them.” 
+
+“Here is my card. Contact me when you have something.” 
+
+
+![] (//image1.png) 
+
+
+Fred was half-awake with no caffeine in his system. Maybe this is why he was disturbed by what was obviously a Cantor-inspired pattern on Ada’s dress. His attention dropped to the card he was holding. In his caffeine withdrawn state he was tempted to see what happens when he “clicked” the paper. However, he thought it wise to be as judicious with his clicks as he has been told to be with the data. 
+
+With data and coffee in hand, his first job was to see if he was able to identify The Pattern despite the fact that Gauss et al. (he was not sure what else to call them) apparently had not. Despite his dinner conversation, there were no engineers. He had predicted that the Cubs will win the World Series and he was amazingly close to predicting the financial crashes. While not a religious man, like everyone else in the Territory, Fred keeps his required digital version of the King James Bible. His big discovery came when he looked at the distribution of unique words in the text. Fred imagined that the frequency of word use would be such that most words are used about the same number of times. A few words would be used a bit more and a few a bit less. In other words, there would not be any deviant words. Much to his surprise, the analysis revealed an amazing pattern. There was one word that was used 64,024 times and 4011 words that were used only 1 time. There was no expected number of word uses. Maybe not so surprising in hindsight, given that it was “the” that was used so frequently. I wonder how many times God was used? 
+
+Not being a mathematician, Fred had no ability to derive an equation for this pattern, but his computing skills allowed him to find it in multitudes of data he had scraped from the internet. He knew that there was power in this distribution and it became the inspiration behind #patternsRus. Although others may have seen this pattern before, he could find no reports, news, or scientific publications on the topic. As far as he could tell, he was the only person aware that much of the world is distributed just like the words of God. 
+
+_“Now, to the data,”_ Fred unknowingly spoke aloud. While he is certain that he will find the pattern, he cannot fathom the implications given the nature of the data. 
+
+He stops for a moment reflecting on all of the sacrifices he has made to develop this algorithm. He had always been told in school and after, that the world is understandable, predictable, and safe. He remembers his favorite teacher proudly passing on the golden truth of their time, “We don’t have to worry, everything fits under the curve. We know what to expect.” It dawns on him that whole belief systems are based on this. Yet he has felt compelled to challenge it, to search for the unlikely and predict the unpredictable. If he is honest with himself, in the beginning he didn’t think it would work and didn’t really want it to. Then his predictions came true, events that didn’t fit the mold. It had made him dizzy at first.  These things weren’t supposed to happen, but they did and everyone around him just seemed to ignore it, preferring the security of the expected.  Damn his masochistic tendencies, he never could just be happy. He smiled sadly as he remembered those exact words were the last thing his wife had said to him before she left. Now all he has is his algorithm. It’s been just him and his algorithm, companions for some time now. These new clients claim that, if his algorithm works on their special data set, it will not only provide tangible evidence enough to shatter the public’s belief in the safety of the expected, but reveal infinite patterns yet to be discovered. It will reveal that the one lens through which society has chosen to see the world was wrong. He shakes his head, not fully understanding what they had told him…that the data set represents all of life. They could just be crazy, or messing with him, or it could be real. The room spins as he dares to wonder if one of the possible results of the many runs of his fail proof algorithm might reveal no pattern at all…death. The irony that his algorithm was developed counting the occurrence of the word God was not lost on him in this moment. 
+
+Subconsciously he knew the time had come. He reached over and clicked THE CARD. 
+
