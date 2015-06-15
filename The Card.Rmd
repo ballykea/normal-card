@@ -70,9 +70,11 @@ There she stood in a Julia Mandelbrot dress, letting Fred know that there was a 
 
 “Here is my card. Contact me when you have something.” 
 
+<img src="c://ellenkayendriss/Downloads/ada.jpg" alt="THE CARD" style="width: 200px;"/>
 
-![ ](https://github.com/ballykea/normal-card/blob/master/ada.jpg)\ 
-
+<!--commented out original
+![](https://drive.google.com/file/d/0B4w2Gn2EU6m2STRvMVVCb1BCTkg0ODFCVTlWVmxNLUpYd1N3/view?usp=sharing)\ 
+-->
 
 Fred was half-awake with no caffeine in his system. Maybe this is why he was disturbed by what was obviously a Cantor-inspired pattern on Ada’s dress. His attention dropped to the card he was holding. In his caffeine withdrawn state he was tempted to see what happens when he “clicked” the paper. However, he thought it wise to be as judicious with his clicks as he has been told to be with the data. 
 
