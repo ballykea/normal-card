@@ -1,0 +1,26 @@
+---
+title: "An Invitation"
+author: "Kay Endriss"
+date: "June 15, 2015"
+output: html_document
+---
+
+If you have not already done so, please read "The Card" and "About the Authors" in the same repository where you have found this document.
+
+An astute, statistically-savvy reader will have felt some uneasiness while reading our story "The Card," which may have persisted afterward. If you return to it now, and read closely, you may sense a conflict between the Fred of the beginning of the story, who is searching for as yet unknown patterns in data, and the Fred of the end of the story, who hints at having already had some prior experience and education with expectations and results fitting "under the curve." In between, Fred laments he may potentially create/discover something of such enormous power it causes him to have a nightmare. In our one conference call with only a few authors present, we were unable to fathom exactly what it all means. We decided to submit the story as is and share our misgivings and invite potential future collaborations to sort it all out. What follows are three questions I, as the corresponding author, invite you to consider.  
+
+How is it that the algorithm that we presume will unveil the normal distribution to Fred and his clients was inspired by a very different type of distribution?   
+
+Did Fred truly learn in school that the world is understandable, predictable, and safe? Did he dream this? Was this in another alternate reality?  
+
+What is the nature of the data set that Ada brought to Fred? What would it contain? Could you design it?
+
+I will be interested to see if anyone cares to help us find out more about this seed of a story we have planted. Know that I chose to post this on github deliberately, to allow for future collaborations, and used R markdown deliberately, to allow for insertion of R code if someone chooses. A data set could be added and used.
+
+Thanks for reading!  
+Kay Endriss
+
+
+
+
+
